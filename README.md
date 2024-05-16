@@ -1,4 +1,5 @@
 # TrashCan-Game
-BR | O jogo "Trash Can" é uma experiência emocionante e educacional para um jogador desenvolvida em Python com a ajuda da biblioteca Pygame. Este jogo envolvente desafia os jogadores a testar seus conhecimentos sobre reciclagem e descarte de resíduos nas lixeiras corretas.
 
-EN | The game "Trash Can" is an exciting and educational singleplayer experience developed in Python with the assistance of the Pygame library. This engaging game challenges players to test their knowledge of recycling and waste disposal into the correct bins.
+BR | O jogo "Trash Can" é uma emocionante e educativa experiência multiplayer desenvolvida em Python com o auxílio da biblioteca Pygame. Este jogo envolvente desafia os jogadores a testar seus conhecimentos sobre reciclagem e descarte de lixo, enquanto competem para jogar diferentes tipos de resíduos nas lixeiras corretas. Com gráficos envolventes e recursos multiplayer, "Trash Can" não apenas educa, mas também proporciona diversão interativa, promovendo a conscientização ambiental de forma divertida e envolvente.
+
+EN | The game "Trash Can" is an exciting and educational multiplayer experience developed in Python with the assistance of the Pygame library. This engaging game challenges players to test their knowledge of recycling and waste disposal while competing to throw different types of waste into the correct bins. With captivating graphics and multiplayer features, "Trash Can" not only educates but also provides interactive fun, promoting environmental awareness in an enjoyable and engaging manner.
